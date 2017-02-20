@@ -140,12 +140,6 @@ html, body {
   font-size: 1.3rem;
 }
 
-.emailadress {
-   font-weight: bold;
-   line-height: 1.5em;
-   margin-bottom: 1.2em;
-}
-
 @media (max-width: 750px) {
   .contact-description {
     padding-top: 2em;
