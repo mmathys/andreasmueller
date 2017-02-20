@@ -140,6 +140,11 @@ html, body {
   font-size: 1.3rem;
 }
 
+.mail {
+  font-size: 1.3rem;
+  padding-bottom: 5vh;
+}
+
 @media (max-width: 750px) {
   .contact-description {
     padding-top: 2em;
