@@ -54,12 +54,22 @@ html, body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  align-items: flex-start;
+}
+
+.section-padding-no-top {
+  padding-top: 0;
 }
 
 .section-padding {
   padding-top: 7vh;
   padding-bottom: 7vh;
+}
+
+.logo {
+  height: 1.6rem;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .title {
@@ -117,6 +127,7 @@ html, body {
   background-color: #E8E8E8;
   flex-grow: 1;
   padding-top: 11vh;
+  width: 100%;
 }
 
 .contact-title {
@@ -146,6 +157,7 @@ html, body {
 
 .footer-wrap {
   background-color: #F1F2F2;
+  width: 100%;
 }
 
 .footer__mark {
