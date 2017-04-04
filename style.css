@@ -160,9 +160,13 @@ html, body {
   width: 100%;
 }
 
+.container{
+  display: inline-block;
+
+}
+
 .footer__mark {
   color: #9D9D9D;
   font-weight: bold;
   font-size: 1.1rem;
-  display: inline-block;
 }
