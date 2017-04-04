@@ -158,11 +158,11 @@ html, body {
 .footer-wrap {
   background-color: #F1F2F2;
   width: 100%;
-  display: inline-block;
 }
 
 .footer__mark {
   color: #9D9D9D;
   font-weight: bold;
   font-size: 1.1rem;
+  display: inline-block;
 }
